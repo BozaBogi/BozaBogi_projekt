@@ -3,10 +3,7 @@
 ## Véleményezés
 ### https://www.mafab.hu/filmek/filmek/1/?yrf=&yrt=&genre=27 = példa oldal
 ### https://www.filmbooster.hu/mufajok/5-horror/ = példa oldal
-
-
-### Összegzés a filmekről; Rövid leírás, hogy miről szólnak a filmek; Írókről néhány sor; 
-
+### http://www.cinegore.net/hu/ = fő-fő példa oldal
 
 ### Szöveg és ötletek az oldalhoz:
 
@@ -40,16 +37,14 @@
 - legrégibb horror film ismertető: Az ördög kastélya (Le Manoir du Diable)
 
 
+## Tartalom
+
+- Blogszerű oldal.
+- A filmnézők különböző horror filmekről tudnak információt szerezni. 
+- A horror filmek közül is több műfajt találhatnak meg, például: természetfeletti, gore. Ezekről egy rövid leírás található: Miről szól? Kik a színészek? Kik csinálták? 
+- A filmről való információk mellett az íróról is olvashatnak egy-két érdekességet, további híres filmjei, miért pont egy ilyen filmet írt?
+
+
 ## Ötlet az oldal kinézetéhez
 
-### Navigációs sáv:
-- Logo
-- Műfajok
-- Írók
-- Évszám
-- Ország
-
-### Body:
-- Néhány ídézet a sarokban (inkább foorterbe)
-- Carousel a leghíresebb/legújabb filmről
-- 
+- A navigációs sávban a logó máshogy, esetleg 
