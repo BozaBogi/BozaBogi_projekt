@@ -3,7 +3,7 @@
 ## Véleményezés
 ### https://www.mafab.hu/filmek/filmek/1/?yrf=&yrt=&genre=27 = példa oldal
 ### https://www.filmbooster.hu/mufajok/5-horror/ = példa oldal
-### http://www.cinegore.net/hu/ = fő-fő példa oldal
+
 
 ### Szöveg és ötletek az oldalhoz:
 
@@ -47,4 +47,10 @@
 
 ## Ötlet az oldal kinézetéhez
 
-- A navigációs sávban a logó máshogy, esetleg 
+### http://www.cinegore.net/hu/ 
+
+![Föoldal]()
+
+- A navigációs sávban a logó máshogy, esetleg egy nagyobb kép az egészen végig.
+- Kevesebb link a navigációs sávban vagy csak .
+- A carousel lehet nagyobb és ne legyen két sáv.
