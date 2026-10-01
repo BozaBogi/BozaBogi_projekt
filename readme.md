@@ -39,5 +39,7 @@
 ## Ötlet az oldal kinézetéhez
 
 ### Navigációs sáv:
--
+- Műfajok
+- Írók
+- Évszám
 
