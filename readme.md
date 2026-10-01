@@ -4,6 +4,10 @@
 ### https://www.mafab.hu/filmek/filmek/1/?yrf=&yrt=&genre=27 = példa oldal
 ### https://www.filmbooster.hu/mufajok/5-horror/ = példa oldal
 
+
+### Összegzés a filmekről; Rövid leírás, hogy miről szólnak a filmek; Írókről néhány sor; 
+
+
 ### Szöveg és ötletek az oldalhoz:
 
 - Műfajok horrorban
@@ -39,7 +43,13 @@
 ## Ötlet az oldal kinézetéhez
 
 ### Navigációs sáv:
+- Logo
 - Műfajok
 - Írók
 - Évszám
+- Ország
 
+### Body:
+- Néhány ídézet a sarokban (inkább foorterbe)
+- Carousel a leghíresebb/legújabb filmről
+- 
