@@ -4,6 +4,7 @@
 ### https://www.mafab.hu/filmek/filmek/1/?yrf=&yrt=&genre=27 = példa oldal
 ### https://www.filmbooster.hu/mufajok/5-horror/ = példa oldal
 
+### Neve: Graveyard Cinema
 
 ### Szöveg és ötletek az oldalhoz:
 
