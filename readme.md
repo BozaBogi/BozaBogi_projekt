@@ -38,3 +38,11 @@
 - A navigációs sávban a logó máshogy, esetleg egy nagyobb kép az egészen végig.
 - Kevesebb link a navigációs sávban vagy csak .
 - A carousel lehet nagyobb és ne legyen két sáv.
+
+
+## Body
+![Body](Body.png)
+
+- kevesebb film
+- átláthatóbb, interaktívabb, de nem túl sok
+
