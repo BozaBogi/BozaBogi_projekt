@@ -7,22 +7,6 @@
 
 ### Szöveg és ötletek az oldalhoz:
 
-- Műfajok horrorban
-    - Természetfeletti
-    - Gore
-    - Slasher
-    - Pszichológiai horror
-    - Testi horror (Body horror)
-    - Zombi és fertőzéses horror
-    - Szörnyes horror
-    - ...
-
-- Horrorírók listája
-- Horror "története"/eredete:
-
-    A latin eredetű angol szó jelentése iszonyat, rémület. A horror célja az   emberi félelemmel való játék, a félelemkeltés. Fontos tulajdonsága, hogy mint  irodalmi műfaj, az olvasó önmaga is belemegy ebbe a játékba, miközben végig  tudja, hogy félelme csupán a képzelet szülötte és így alaptalan.
-
-
         Idézetek filemkből/íróktól
 
         "Milyen nagyszerű nap az ördögűzésre” – Az Ördögűző
@@ -49,7 +33,7 @@
 
 ### http://www.cinegore.net/hu/ 
 
-![Föoldal]()
+![Föoldal](Főoldal.png)
 
 - A navigációs sávban a logó máshogy, esetleg egy nagyobb kép az egészen végig.
 - Kevesebb link a navigációs sávban vagy csak .
