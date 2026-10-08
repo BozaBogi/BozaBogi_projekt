@@ -36,7 +36,7 @@
 ![Föoldal](Főoldal.png)
 
 - A navigációs sávban a logó máshogy, esetleg egy nagyobb kép az egészen végig.
-- Kevesebb link a navigációs sávban vagy csak .
+- Kevesebb link a navigációs sávban.
 - A carousel lehet nagyobb és ne legyen két sáv.
 
 
