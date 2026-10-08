@@ -46,3 +46,7 @@
 - kevesebb film
 - átláthatóbb, interaktívabb, de nem túl sok
 
+## Filmekről részletesebb
+![Filmes](Filmes.png)
+- Kevesebb szöveg, de ugyanúgy elég információ
+- Íróról/rendezőkről pici információ
