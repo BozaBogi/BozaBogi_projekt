@@ -35,7 +35,10 @@ nav, ul, li, a{
 body{
     background-color: hsl(0, 20%, 50%);
 }
-.carousel{
-    max-width: 700px;
-    max-height: 400px;
+.carousel-item img{
+    width: 400px;
+    height: 350px;
+    object-fit: contain;
+    display: block;
+    margin: 0 auto;
 }
