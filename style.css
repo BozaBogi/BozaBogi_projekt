@@ -48,9 +48,15 @@ body{
     margin: 0 auto;
     background-color: black;
 }
-.card, img{
-    max-height: 700px;
+.card{
+    height: 100%;
 }
+.card, img{
+    display: flex;
+    max-height: 700px;
+    text-align: center;
+}
+
 .footer{
     display: flex;
     background-color: rgb(114, 72, 72);
