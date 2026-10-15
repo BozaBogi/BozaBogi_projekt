@@ -46,5 +46,20 @@ body{
     object-fit: contain;
     display: block;
     margin: 0 auto;
-    background-color: #000;
+    background-color: black;
+}
+.card, img{
+    max-height: 700px;
+}
+.footer{
+    display: flex;
+    background-color: rgb(114, 72, 72);
+    height: 100px;
+}
+.footer, p{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    color: rgb(155, 147, 147);
 }
