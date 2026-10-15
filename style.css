@@ -19,6 +19,9 @@ nav{
     display: flex;
     align-items: center;
 }
+nav ul li a:hover{
+    color: rgb(110, 32, 32);
+}
 nav ul{
     margin: 0;
 }
