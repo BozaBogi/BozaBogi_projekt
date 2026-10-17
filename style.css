@@ -6,12 +6,13 @@ header{
     background-size: cover;
     margin: auto;
 }
-header, h1{
+.fejléc{
     display: flex;
     text-align: center;
     align-items: center;
     justify-content: center;
     color: white;
+    
 }
 nav{
     background-color: black;
@@ -36,7 +37,7 @@ nav, ul, li, a{
     text-align: center;
 }
 body{
-    background-color: hsl(0, 20%, 50%);
+    background-color: hsl(0, 25%, 20%);
 }
 
 .carousel{
@@ -68,7 +69,7 @@ body{
 
 .footer{
     display: flex;
-    background-color: rgb(114, 72, 72);
+    background-color: rgb(39, 14, 14);
     height: 100px;
 }
 .footer p{
