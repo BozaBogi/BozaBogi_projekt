@@ -80,3 +80,24 @@ body{
     color: rgb(155, 147, 147);
     margin: auto;
 }
+#udvozles{
+    background-color: #422725;
+    color: white;
+    text-align: center;
+    padding: 45px 20px;
+}
+#udvozles h1{
+    margin-bottom: 20px;
+    font-size: 32px;
+}
+#udvozles p{
+    max-width: 800px;
+    margin: 0 auto 20px;
+    line-height: 1.8;
+    font-size: 16px;
+} 
+#udvozles h3{
+    color: #e4b7b7;
+    font-size: 20px;
+    margin-top: 25px;
+}
