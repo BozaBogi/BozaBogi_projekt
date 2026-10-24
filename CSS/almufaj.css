@@ -9,6 +9,20 @@ header{
     font-weight: 700;
     color: white;
 }
+nav{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+nav a:hover{
+    color: rgb(110, 32, 32);
+}
+
+nav a{
+    color: lightgray; 
+    text-decoration: none;
+    font-size: 0.95rem;
+}
 body{
     background-color: hsl(0, 25%, 20%);
 }
