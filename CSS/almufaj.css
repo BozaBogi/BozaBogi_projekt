@@ -44,8 +44,16 @@ a:hover{
 .card{
     width: 400px;
 }
-
-
+#ablak{
+    display: flex;
+}
+#ablak img{
+    width: 200px;
+    height: 300px;
+}
+#modal-szoveg{
+    float: right;
+}
 
 
 
