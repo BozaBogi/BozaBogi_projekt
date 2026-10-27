@@ -39,24 +39,33 @@ a{
     color: white;
 }
 a:hover{
-    color: rgb(44, 42, 42);
+    color: rgb(185, 119, 119);
 }
 .card{
     width: 400px;
 }
-#ablak{
-    display: flex;
+#modal-szoveg {
+    gap: 20px;
+    align-items: center;
 }
-#ablak img{
-    width: 200px;
-    height: 300px;
+#modal-szoveg img{
+    height: 250px;
+    width: 150px;
+    border-radius: 20px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);
 }
-#modal-szoveg{
-    float: right;
+#modal-szoveg ul{
+    list-style-type: none;
+    padding-left: 0;
 }
-
-
-
+#modal-szoveg ul li{
+    margin-bottom: 8px;
+}
+#modal-szoveg p{
+    width: 100%;
+    margin-top: 8px;
+    text-align: justify;
+}
 
 .footer{
     display: flex;
