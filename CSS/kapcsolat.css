@@ -26,18 +26,26 @@ nav a{
 body{
     background-color: hsl(0, 25%, 20%);
 }
+.container{
+    background-color: hsl(0, 28%, 25%);
+    border-radius: 20px;
+    padding-top: 20px;
+    padding-bottom: 40px;
+}
 #kapcsolat{
     color: white;
     text-align: center;
-    padding-top: 50px;
+}
+#kapcsolat p{
+    color: #e4b7b7;
+}
+input, textarea{
+    border-radius: 10px;
 }
 .footer{
     display: flex;
     background-color: rgb(39, 14, 14);
     height: 100px;
-    position: absolute;
-    bottom: 0;
-    width: 100%;
 }
 .footer p{
     display: flex;
