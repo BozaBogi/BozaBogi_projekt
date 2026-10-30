@@ -9,7 +9,7 @@
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
         integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
         crossorigin="anonymous"></script>
-    <link rel="stylesheet" href="CSS/rolunk.css">
+    <link rel="stylesheet" href="CSS/kapcsolat.css">
     <title>Graveyard Cinema</title>
 </head>
 
@@ -19,13 +19,26 @@
         <nav>
             <a href="index.html">Kezdőlap</a>
             <a href="almufajok.html">Alműfajok</a>
-            <a href="">Rólunk</a>
+            <a href="kapcsolat.html">Rólunk</a>
         </nav>
-    </header>
+    </header> <br>
 
+    <div class="container">
+        <div id="kapcsolat">
+            <h4>Kapcsolat</h4> <br>
 
+            <form>
+                <label for="nev">Név: </label>
+                <input type="text" id="nev" name="nev" placeholder="Teljes neved" required> <br> <br>
 
+                <label for="email">E-mail-cím: </label>
+                <input type="email" id="email" name="email" placeholder="pelda@email.com"> <br> <br>
 
+                <label for="uzenet">Megjegyzés: </label> <br>
+                <textarea name="uzenet" id="uzenet" cols="40" rows="4" placeholder="Írj ide egy üzenetet!"></textarea>
+            </form>
+        </div>
+    </div>
 
     <br>
     <footer class="footer">

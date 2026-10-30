@@ -26,6 +26,11 @@ nav a{
 body{
     background-color: hsl(0, 25%, 20%);
 }
+#kapcsolat{
+    color: white;
+    text-align: center;
+    padding-top: 50px;
+}
 .footer{
     display: flex;
     background-color: rgb(39, 14, 14);
