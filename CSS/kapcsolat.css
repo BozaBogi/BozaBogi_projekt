@@ -35,6 +35,9 @@ body{
     display: flex;
     background-color: rgb(39, 14, 14);
     height: 100px;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
 }
 .footer p{
     display: flex;
