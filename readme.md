@@ -1,5 +1,4 @@
 
-# Horror filmek az évszázadokból
 ## Véleményezés
 ### https://www.mafab.hu/filmek/filmek/1/?yrf=&yrt=&genre=27 = példa oldal
 ### https://www.filmbooster.hu/mufajok/5-horror/ = példa oldal
@@ -18,16 +17,13 @@
 
         „Emberiségünk legősibb és legerősebb érzése a félelem, a legősibb és legerősebb félelem pedig az ismeretlentől való félelem.” The Writer H.P Lovecraft
 
-
-- legrégibb horror film ismertető: Az ördög kastélya (Le Manoir du Diable)
-
-
 ## Tartalom
 
 - Blogszerű oldal.
 - A filmnézők különböző horror filmekről tudnak információt szerezni. 
-- A horror filmek közül is több műfajt találhatnak meg, például: természetfeletti, gore. Ezekről egy rövid leírás található: Miről szól? Kik a színészek? Kik csinálták? 
+- A horror filmek közül több műfajt találhatnak meg, például: természetfeletti, gore, stb. Ezekről egy rövid leírás található: Miről szól? Mennyi a játékidő? Kik szinészkednek benne? Ki(k) a rendező(k)? 
 - A filmről való információk mellett az íróról is olvashatnak egy-két érdekességet, további híres filmjei, miért pont egy ilyen filmet írt?
+- Kicsit inkább a streaming platformokhoz hasnolnó oldal, azzal a különbséggel, hogy itt összefoglalást láthatnak a filmről, nem pedig magát a filmet.
 
 
 ## Ötlet az oldal kinézetéhez
