@@ -42,16 +42,19 @@ body{
 input, textarea{
     border-radius: 10px;
 }
+#kapcsolat p mark{
+    background-color: hsl(0, 23%, 15%);
+    color: #e4b7b7;
+}
 .footer{
     display: flex;
     background-color: rgb(39, 14, 14);
     height: 100px;
-}
-.footer p{
-    display: flex;
-    text-align: center;
     align-items: center;
     justify-content: center;
+}
+.footer p{
+    text-align: center;
     color: rgb(155, 147, 147);
     margin: auto;
 }

@@ -15,11 +15,11 @@
 
 <body>
     <header>
-        <h1 class="cím">GRAVEYARD CINEMA</h1>
+        <h1 class="cím"><del>GRAVEYARD CINEMA</del></h1>
         <nav>
-            <a href="index.html">Kezdőlap</a>
-            <a href="almufajok.html">Alműfajok</a>
-            <a href="kapcsolat.html">Kapcsolat</a>
+            <a href="index.html" target="_self">Kezdőlap</a>
+            <a href="almufajok.html" target="_self">Alműfajok</a>
+            <a href="kapcsolat.html" target="_blank">Kapcsolat</a>
         </nav>
     </header>
 
@@ -55,66 +55,92 @@
             <span class="visually-hidden">Következő</span>
         </button>
     </div>
-    <div class="container">
-        <div class="row row-cols-1">
-            <div class="col" id="udvozles">
-                <h1>Üdvözöl a Graveyard Cinema!</h1>
-                <p>Merülj el a horrorfilmek világában, ahol a félelem, a feszültség és a borzongás kerül a középpontba.
-                    Fedezd fel a műfaj klasszikusait, a véres slasher filmeket, a természetfeletti történeteket és a
-                    pszichológiai thrillereket. Akár egy új filmet keresel a következő horrorestédhez, akár csak
-                    szeretnél jobban megismerkedni a műfajjal, itt megtalálod a neked való filmeket.</p>
-                <h3>Ismerd meg a horror sötétebb oldalát!</h3>
-            </div>
-        </div>
-        <div class="row row-cols-lg-3 row-cols-md-2 row-cols-1 g-4">
-            <div class="col">
-                <div class="card">
-                    <img src="pics/Lee_Cronin's_The_Mummy.jpg" class="card-img-top" alt="...">
-                    <div class="card-body">
-                        <h5 class="card-title">Lee Cronin: A Múmia</h5>
-                        <p class="card-text">Megjelenés dátuma: 2026 <br> Természetfeletti horror <br> Rendező: Lee
-                            Cronin</p>
-                        <a href="almufajok.html#termeszet" class="btn btn-outline-danger">Részletek</a>
-                    </div>
+
+    <main>
+        <div class="container">
+            <div class="row row-cols-1">
+                <div class="col" id="udvozles">
+                    <h1><strong>Üdvözöl a Graveyard Cinema!</strong></h1>
+                    <p>Merülj el a horrorfilmek világában, ahol a félelem, a feszültség és a borzongás kerül a
+                        középpontba.
+                        Fedezd fel a műfaj klasszikusait, a <em>véres slasher</em> filmeket, a <em>természetfeletti
+                            történeteket</em> és a
+                        <em>pszichológiai thrillereket</em>. Akár egy új filmet keresel a következő horrorestédhez, akár
+                        csak
+                        szeretnél jobban megismerkedni a műfajjal, itt megtalálod a neked való filmeket.
+                    </p>
+                    <h3>Ismerd meg a horror sötétebb oldalát!</h3>
                 </div>
             </div>
-            <div class="col">
-                <div class="card">
-                    <img src="pics/dracula_a_love_story.jpg" class="card-img-top" alt="...">
-                    <div class="card-body">
-                        <h5 class="card-title">Dracula: A Love Tale</h5>
-                        <p class="card-text">Megjelenés dátuma: 2025 <br> Gótikus horror / romantikus fantasy <br>
-                            Rendező: Luc Besson</p>
-                        <a href="almufajok.html#gotikus" class="btn btn-outline-danger">Részletek</a>
-                    </div>
-                </div>
-            </div>
-            <div class="col">
-                <div class="card">
-                    <img src="pics/conjuring.jpg" class="card-img-top" alt="...">
-                    <div class="card-body">
-                        <h5 class="card-title">Démonok között</h5>
-                        <p class="card-text">Megjelenés dátuma: 2013 <br> Természetfeletti horror <br> Rendező: James
-                            Wan</p>
-                        <a href="almufajok.html#termesz" class="btn btn-outline-danger">Részletek</a>
-                    </div>
-                </div>
-            </div>
-            <div class=" col">
-                            <div class="card">
-                                <img src="pics/Obsession_theatrical_poster.jpeg.webp" class="card-img-top" alt="...">
-                                <div class="card-body">
-                                    <h5 class="card-title">Obsession</h5>
-                                    <p class="card-text">Megjelenés dátuma: 2025 <br>Pszichológiai
-                                        horror <br>
-                                        Rendező: Curry Barker</p>
-                                    <a href="almufajok.html#pszicho" class="btn btn-outline-danger">Részletek</a>
-                                </div>
-                            </div>
-                    </div>
+
+
+            <div class="row row-cols-lg-3 row-cols-md-2 row-cols-1 g-4">
+                <article>
                     <div class="col">
                         <div class="card">
-                            <img src="pics/final_destination.jpg" class="card-img-top" alt="...">
+                            <img src="pics/Lee_Cronin's_The_Mummy.jpg" class="card-img-top" alt="Lee Cronin: A Múmia"
+                                title="Lee Cronin: A Múmia">
+                            <div class="card-body">
+                                <h5 class="card-title">Lee Cronin: A Múmia</h5>
+                                <p class="card-text">Megjelenés dátuma: 2026 <br> Természetfeletti horror <br> Rendező:
+                                    Lee
+                                    Cronin</p>
+                                <a href="almufajok.html#termeszet" class="btn btn-outline-danger">Részletek</a>
+                            </div>
+                        </div>
+                    </div>
+                </article>
+                <article>
+                    <div class="col">
+                        <div class="card">
+                            <img src="pics/dracula_a_love_story.jpg" class="card-img-top" alt="Dracula: A Love Tale"
+                                title="Dracula: A Love Tale">
+                            <div class="card-body">
+                                <h5 class="card-title">Dracula: A Love Tale</h5>
+                                <p class="card-text">Megjelenés dátuma: 2025 <br> Gótikus horror / romantikus fantasy
+                                    <br>
+                                    Rendező: Luc Besson
+                                </p>
+                                <a href="almufajok.html#gotikus" class="btn btn-outline-danger">Részletek</a>
+                            </div>
+                        </div>
+                    </div>
+                </article>
+                <article>
+                    <div class="col">
+                        <div class="card">
+                            <img src="pics/conjuring.jpg" class="card-img-top" alt="Démonok között"
+                                title="Démonok között">
+                            <div class="card-body">
+                                <h5 class="card-title">Démonok között</h5>
+                                <p class="card-text">Megjelenés dátuma: 2013 <br> Természetfeletti horror <br> Rendező:
+                                    James
+                                    Wan</p>
+                                <a href="almufajok.html#termesz" class="btn btn-outline-danger">Részletek</a>
+                            </div>
+                        </div>
+                    </div>
+                </article>
+                <article>
+                    <div class=" col">
+                        <div class="card">
+                            <img src="pics/Obsession_theatrical_poster.jpeg.webp" class="card-img-top" alt="Obsession"
+                                title="Obsession">
+                            <div class="card-body">
+                                <h5 class="card-title">Obsession</h5>
+                                <p class="card-text">Megjelenés dátuma: 2025 <br>Pszichológiai
+                                    horror <br>
+                                    Rendező: Curry Barker</p>
+                                <a href="almufajok.html#pszicho" class="btn btn-outline-danger">Részletek</a>
+                            </div>
+                        </div>
+                    </div>
+                </article>
+                <article>
+                    <div class="col">
+                        <div class="card">
+                            <img src="pics/final_destination.jpg" class="card-img-top" alt="Végső Állomás 1"
+                                title="Végső Állomás 1">
                             <div class="card-body">
                                 <h5 class="card-title">Végső Állomás 1</h5>
                                 <p class="card-text">Megjelenés dátuma: 2000 <br>Slasher horror <br>
@@ -123,26 +149,73 @@
                             </div>
                         </div>
                     </div>
+                </article>
+                <article>
                     <div class=" col">
-                                    <div class="card">
-                                        <img src="pics/texas_chainsaw_massacre.jpg" class="card-img-top" alt="...">
-                                        <div class="card-body">
-                                            <h5 class="card-title">The Texas Chainsaw Massacre</h5>
-                                            <p class="card-text">Megjelenés dátuma: 1974 <br> Slasher horror <br>
-                                                Rendező: Tobe Hooper</p>
-                                            <a href="almufajok.html#slasher"
-                                                class="btn btn-outline-danger">Részletek</a>
-                                        </div>
-                                    </div>
+                        <div class="card">
+                            <img src="pics/texas_chainsaw_massacre.jpg" class="card-img-top"
+                                alt="The Texas Chainsaw Massacre" title="The Texas Chainsaw Massacre">
+                            <div class="card-body">
+                                <h5 class="card-title">The Texas Chainsaw Massacre</h5>
+                                <p class="card-text">Megjelenés dátuma: 1974 <br> Slasher horror <br>
+                                    Rendező: Tobe Hooper</p>
+                                <a href="almufajok.html#slasher" class="btn btn-outline-danger">Részletek</a>
                             </div>
                         </div>
                     </div>
-                    <br>
-                    <footer class="footer">
-                        <p>„Emberiségünk legősibb és legerősebb érzése a félelem, a legősibb és legerősebb félelem pedig
-                            az
-                            ismeretlentől való félelem.” <br> Writer H.P Lovecraft</p>
-                    </footer>
+                </article>
+                <article id="tablazat">
+                        <table class="table">
+                            <caption style="caption-side: top; color: #e79393;">A bemutatott filmek értékelései és adatai</caption>
+                            <thead>
+                                <tr>
+                                    <th scope=" col">Film címe</th>
+                                    <th scope="col" style="text-align: center;">IMDb értékelés</th>
+                                    <th scope="col" style="text-align: center;">Korhatár</th>
+                                    <th scope="col" style="text-align: center;">Játékidő</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <th scope="row">The Nun</th>
+                                    <td>5.3 / 10</td>
+                                    <td>18+</td>
+                                    <td>96 perc</td>
+                                </tr>
+                                <tr>
+                                    <th scope="row">Végső Állomás 1</th>
+                                    <td>6.7 / 10</td>
+                                    <td>18+</td>
+                                    <td>98 perc</td>
+                                </tr>
+                                <tr>
+                                    <th scope="row">The Texas Chainsaw Massacre</th>
+                                    <td>7.4 / 10</td>
+                                    <td>18+</td>
+                                    <td>83 perc</td>
+                                </tr>
+                                <tr>
+                                    <th scope="row">Obsession</th>
+                                    <td>6.1 / 10</td>
+                                    <td>16+</td>
+                                    <td>90 perc</td>
+                                </tr>
+                            </tbody>
+                            <tfoot>
+                                <tr>
+                                    <td colspan="4">Az adatok forrása az IMDb adatbázis.</td>
+                                </tr>
+                            </tfoot>
+                        </table>
+                </article>
+            </div>
+        </div>
+    </main>
+    <br>
+    <footer class="footer">
+        <p><q>Emberiségünk legősibb és legerősebb érzése a félelem, a legősibb és legerősebb félelem pedig
+                az ismeretlentől való félelem.</q> <br> Writer H.P Lovecraft</p>
+    </footer>
 
 
 
