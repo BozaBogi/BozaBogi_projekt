@@ -7,6 +7,7 @@ header{
     margin: 0 0 10px 0;
     font-size: 1.4rem;
     font-weight: 700;
+    text-transform: uppercase;
     color: white;
 }
 nav{
@@ -25,10 +26,12 @@ nav a{
 }
 body{
     background-color: hsl(0, 25%, 20%);
+    font-family: 'Times New Roman', Times, serif;
 }
 .container{
     background-color: hsl(0, 28%, 25%);
     border-radius: 20px;
+    border: 2px solid hsl(0, 27%, 17%);
     padding-top: 20px;
     padding-bottom: 40px;
 }
