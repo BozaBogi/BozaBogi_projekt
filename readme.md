@@ -5,6 +5,15 @@
 
 ### Neve: Graveyard Cinema
 
+## Tartalom
+
+- Blogszerű oldal.
+- A filmnézők különböző horror filmekről tudnak információt szerezni. 
+- A horror filmek közül több műfajt találhatnak meg, például: természetfeletti, gore, stb. Ezekről egy rövid leírás található: Miről szól? Mennyi a játékidő? Kik szinészkednek benne? Ki(k) a rendező(k)? 
+- A filmről való információk mellett az íróról is olvashatnak egy-két érdekességet, további híres filmjei, miért pont egy ilyen filmet írt?
+- Kicsit inkább a streaming platformokhoz hasnolnó oldal, azzal a különbséggel, hogy itt összefoglalást láthatnak a filmről, nem pedig magát a filmet.
+- [Graveyard Cinema – GitHub Pages](https://bozabogi.github.io/BozaBogi_projekt/)
+
 ### Szöveg és ötletek az oldalhoz:
 
         Idézetek filemkből/íróktól
@@ -16,14 +25,6 @@
         „Bizonyos dolgokat jobb nem látni és nem hallani, csak amikor már vége…” – Stephen King: Az
 
         „Emberiségünk legősibb és legerősebb érzése a félelem, a legősibb és legerősebb félelem pedig az ismeretlentől való félelem.” The Writer H.P Lovecraft
-
-## Tartalom
-
-- Blogszerű oldal.
-- A filmnézők különböző horror filmekről tudnak információt szerezni. 
-- A horror filmek közül több műfajt találhatnak meg, például: természetfeletti, gore, stb. Ezekről egy rövid leírás található: Miről szól? Mennyi a játékidő? Kik szinészkednek benne? Ki(k) a rendező(k)? 
-- A filmről való információk mellett az íróról is olvashatnak egy-két érdekességet, további híres filmjei, miért pont egy ilyen filmet írt?
-- Kicsit inkább a streaming platformokhoz hasnolnó oldal, azzal a különbséggel, hogy itt összefoglalást láthatnak a filmről, nem pedig magát a filmet.
 
 
 ## Ötlet az oldal kinézetéhez
